@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "725717897478",
+    "project_id": "cryptobag-a1c3a",
+    "storage_bucket": "cryptobag-a1c3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725717897478:android:d71f54ce7c7c69b4e6ce87",
+        "android_client_info": {
+          "package_name": "com.example.crypto_bag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725717897478-riguc9j2cv8ccathj9e3k0fa08996q7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuPyeVdS1bgyygVSx5JfI1R0b0KwXQMmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725717897478-riguc9j2cv8ccathj9e3k0fa08996q7h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725717897478-netni6d0f47glh5ad4ga65k994eli3ps.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cryptoBag"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
